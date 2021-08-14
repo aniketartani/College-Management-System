@@ -7,10 +7,10 @@ The main goal of the system is to automate the process carried out in the organi
     </h2>
     <p>
         <h4>This Project Mainly has 4 Modules:</h4>
-        <li><h2>Student Profile:</h2></li> In the student Profile section, we can see all the general informations related  to students. Furthermore, we can add, remove and update the informations.
-        <li><h2>Fee Report:</h2></li>In the Fee report section, we can store or display fee information related to students.
-        <li><h2>Library Management System</h2></li><br>In this window we can see all the issued book related details. It additionally provides a book issue feature where we can check all the present books and issue them.
-       <li><h2> Marksheet</h2></li>: In the marksheet section,  we can search students mark sheet via registration number and also we can instantly add new mark sheet too into the local database.
+        <h2>Student Profile:</h2></li> In the student Profile section, we can see all the general informations related  to students. Furthermore, we can add, remove and update the informations.<br>
+       <h2>Fee Report:</h2></li>In the Fee report section, we can store or display fee information related to students.<br>
+     <h2>Library Management System</h2></li><br>In this window we can see all the issued book related details. It additionally provides a book issue feature where we can check all the present books and issue them.<br>
+ <h2> Marksheet</h2></li>: In the marksheet section,  we can search students mark sheet via registration number and also we can instantly add new mark sheet too into the local database.<br>
         </p>
         <h2>3. Advantages and the main functionality of your application:
         </h2>
@@ -43,8 +43,7 @@ The main goal of the system is to automate the process carried out in the organi
                         </li><br>
                 </p>
 
-                <h2>5. Our Team
-                </h2>
+<h2>Our Team</h2>
 <ul>
   <li><a href="https://github.com/aniketartani">Aniket Artani-Python Developer and Database Manager</a></li>
   <li><a href="https://github.com/parthvik">Parthvik Ajmera-Database Manager and UI/UX</a></li>
@@ -55,14 +54,12 @@ The main goal of the system is to automate the process carried out in the organi
 </h2>
 <p>
     <h4>More Modules Could be Added in Future Updates like:</h4>
-    <li>
-        <h4>Hostel Management:</h4>
-        Hostel Room's can be alloted in this also Hostel fees or any extra charges can be displayed in this module.
-    </li>
-    <li>
-        <h4>Curriculum Viewer:</h4>
-        Here Curriculum details like courses their syllabus and other information will be added.
-    </li>
+ <h4>Hostel Management:</h4>
+        Hostel Room's can be alloted in this also Hostel fees or any extra charges can be displayed in this module.<br>
+    <h4>Curriculum Viewer:</h4> 
+       <p>Here Curriculum details like courses their syllabus and other information will be added.<br>
+ 
+  
 </p>
 
-            
+ 
