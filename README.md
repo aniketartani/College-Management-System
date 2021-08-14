@@ -43,7 +43,7 @@ The main goal of the system is to automate the process carried out in the organi
                         </li><br>
                 </p>
 
-<h2>Our Team</h2>
+<h2>5.Our Team</h2>
 <ul>
   <li><a href="https://github.com/aniketartani">Aniket Artani-Python Developer and Database Manager</a></li>
   <li><a href="https://github.com/parthvik">Parthvik Ajmera-Database Manager and UI/UX</a></li>
